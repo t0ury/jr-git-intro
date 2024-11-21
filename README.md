@@ -1,18 +1,26 @@
-# jr-git-intro
-
 # git简答作业
 
 ## Q1
 
 content of second.md:
+
 A
+
 B
+
 $
+
 C
+
 #
+
 %
+
 E
+
 F
+
+
 
 ## Q2
 
